@@ -34,8 +34,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sydzmlk&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sydzmlk&theme=tokyonight" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sydzmlk&show_icons=true&theme=radical)
+
+ ![GitHub Streak](https://streak-stats.demolab.com?user=sydzmlk&theme=radical)
+
 </p>
 
 
