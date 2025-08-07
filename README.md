@@ -4,11 +4,13 @@
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I’m currently working with **C# and .NET technologies**
-- 🚀 Passionate about building backend systems and learning new tech  
-- 🌱 Currently diving deeper into **JavaScript**, **HTML/CSS**, and **Bootstrap**
-- 🛠 I love collaborating on open-source projects and learning from the community  
-- 💡 I believe in writing clean, maintainable code (and sometimes breaking it just for fun 😄)
+
+- 👨‍💻 Exploring the world of **C# and .NET** with curiosity and consistency  
+- 🔧 Focused on backend development and system architecture  
+- 📖 Learning **JavaScript**, **HTML/CSS**, and **Bootstrap** to strengthen full-stack skills  
+- 🤝 Interested in contributing to open-source projects and building real-world solutions  
+- 🧠 Striving to write code that is not just functional, but readable, scalable, and meaningful
+
 
 ---
 
