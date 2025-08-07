@@ -49,7 +49,7 @@
 
 ### 🚀 Featured Projects
 
-- [📚 Library Management System (C#)](https://github.com/YOUR_USERNAME/libraryApp)
+- [📚 Library Management System (C#)](https://github.com/sydzmlk/libraryApp)
 ---
 
 
