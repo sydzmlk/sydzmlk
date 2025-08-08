@@ -32,6 +32,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🥷 Codewars Profile
+
+[![Codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/sydzmlk)
 
 ### 📈 GitHub Stats
 
