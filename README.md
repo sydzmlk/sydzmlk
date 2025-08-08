@@ -34,7 +34,7 @@
 ---
 ## 🥷 Codewars Profile
 
-[![Codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/sydzmlk)
+[![Codewars](https://www.codewars.com/users/sydzmlk/badges/large)](https://www.codewars.com/users/sydzmlk)
 
 ### 📈 GitHub Stats
 
